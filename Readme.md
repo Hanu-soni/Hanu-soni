@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanu-soni&label=Profile%20views&color=0e75b6&style=flat" alt="hanu-soni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanu-soni" alt="hanu-soni" /></a> </p>
-
 - 🔭 I’m currently working on **MERN Chat App**
 
 - 🌱 I’m currently learning **Flutter | Django| Python**
