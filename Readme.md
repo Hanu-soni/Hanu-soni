@@ -1,6 +1,4 @@
-Sure, I can help you improve the CSS by writing inline CSS. Here's the modified code with inline CSS:
 
-```html
 <h1 style="text-align: center;">Hi 👋, I'm PANKAJ SONI</h1>
 <h3 style="text-align: center;">A Full Stack Web developer and Coding Lover!</h3>
 <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" style="float: right; width: 400px; height: 400px;">
@@ -68,6 +66,4 @@ Sure, I can help you improve the CSS by writing inline CSS. Here's the modified 
 <p style="clear: both;">&nbsp;<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=hanu-soni&show_icons=true&locale=en" alt="hanu-soni" /></p>
 
 <p style="clear: both;"><img style="float: left;" src="https://github-readme-streak-stats.herokuapp.com/?user=hanu-soni&" alt="hanu-soni" /></p>
-```
 
-I've added inline styles to align elements and make them more visually appealing. Please note that using inline CSS is not the best practice for larger projects, but I've made the changes as you requested.
