@@ -6,7 +6,10 @@
   margin-right: auto;
   width: 30%;">
 
-<p style="float: center;"> <img src="https://komarev.com/ghpvc/?username=hanu-soni&label=Profile%20views&color=0e75b6&style=flat" alt="hanu-soni" /> </p>
+<p style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;"> <img src="https://komarev.com/ghpvc/?username=hanu-soni&label=Profile%20views&color=0e75b6&style=flat" alt="hanu-soni" /> </p>
 
 <div style="clear: both;"></div>
 
