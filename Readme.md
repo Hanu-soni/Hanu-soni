@@ -22,7 +22,7 @@
 
 <p style="margin-top: 20px; text-align: left;">🔭 I’m currently working on <strong>Vaniella Registration Form</strong></p>
 
-<p style="text-align: left;">🌱 I’m currently learning <strong>Flutter | Django | Python</strong></p>
+<p style="text-align: left;">🌱 I’m currently learning <strong>React-redux toolkit to manage api calls</strong></p>
 
 <p style="text-align: left;">🤝 I’m looking for help with <a href="https://hanu-soni.github.io/Quiz_almabetter/" style="text-decoration: none; color: #0366d6;">Quiz Builder</a></p>
 
