@@ -24,7 +24,7 @@
 
 <p style="text-align: left;">🌱 I’m currently learning <strong>React-redux toolkit to manage api calls</strong></p>
 
-<p style="text-align: left;">🤝 I’m looking for help with <a href="https://hanu-soni.github.io/Quiz_almabetter/" style="text-decoration: none; color: #0366d6;">Quiz Builder</a></p>
+<p style="text-align: left;">🤝 I’m looking for help with <a href="https://hanu-soni.github.io/zepto/" style="text-decoration: none; color: #0366d6;">Pick up players</a></p>
 
 <p style="text-align: left;">👨‍💻 All of my projects are available at <a href="https://hanu-soni.github.io/Portfolio/" style="text-decoration: none; color: #0366d6;">https://hanu-soni.github.io/Portfolio/</a></p>
 
