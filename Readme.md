@@ -20,7 +20,7 @@
 
 <div style="clear: both;"></div>
 
-<p style="margin-top: 20px; text-align: left;">🔭 I’m currently working on <strong>Vanilla Registration Form</strong></p>
+<p style="margin-top: 20px; text-align: left;">🔭 I’m currently working on <strong>NEW COMPANY PROJECT</strong></p>
 
 <p style="text-align: left;">🌱 I’m currently learning <strong>React-redux toolkit to manage api calls</strong></p>
 
