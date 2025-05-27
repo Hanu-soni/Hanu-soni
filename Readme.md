@@ -1,6 +1,6 @@
 
 <h1 style="text-align: center;">Hi 👋, I'm PANKAJ SONI</h1>
-<h3 style="text-align: center;">A Full Stack Web developer and Coding Lover!</h3>
+<h3 style="text-align: center;">A Full Stack developer and Coding Lover!</h3>
 <center>
   <div style="display: block;
   margin-left: auto;
